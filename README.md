@@ -42,6 +42,7 @@ All the information about Api service you will use it, you can find here: [Swapi
 - Tests
 - Programming good practices
 - BEM Css
+- We don't have design files, surprise us!
 
 ### “A user interface is like a joke. If you have to explain it, it's not that good”. — Martin Leblanc.
 ## Have fun! ;D
