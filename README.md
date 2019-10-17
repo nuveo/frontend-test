@@ -3,7 +3,7 @@ We are focused on developing software solutions for process automation and servi
 
 # Frontend Test
 
-The goal of the test is simple, develop an application with listing and detail of all characters in the movies of the Star Wars saga.
+The test goals is simple, to develop an application with List and Detail pages of all character from Star Wars saga.
 
 It is missing some information about the test, the idea is to see how you handle in these situations to get the job done.
 
