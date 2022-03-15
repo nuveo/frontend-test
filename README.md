@@ -55,7 +55,7 @@ All the information about API service that you will use for this challenge is pr
 ## Additional skills (could have)
 * Present a good knowledge about API Restful and OpenAPI documentation pattern
 * Good knowledge about other libs or frameworks such as Angular and React
-* BEM CSS knowledge
+* SASS, SCSS, LESS or BEM CSS knowledge
 * A brief understanding of UX/UI designs and principles
 * We don't provide design files in this test, but it will be a very good surprise if you provide some to us!
 
