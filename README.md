@@ -44,19 +44,8 @@ We will follow your instructions to run your code and look the outcome. Therefor
 
 All the information about API service that you will use for this challenge is provided at: [Swapi](https://swapi.co/documentation#people)
 
-## Technologies
-### Required (must have)
-* JS, TypeScript, CSS, SASS, HTML.
-* Strong knowledge of the Vue framework.
-* Programming good practices
-* Tests
-* It is not allowed to use tools like Bootstrap, Pure CSS, ng-bootstrap, Angular Material. The idea is to evaluate your skills, how you build the architecture, DRY patterns.
-
-## Additional skills (could have)
-* Present a good knowledge about API Restful and OpenAPI documentation pattern
-* Good knowledge about other libs or frameworks such as Angular and React
-* SASS, SCSS, LESS or BEM CSS knowledge
-* A brief understanding of UX/UI designs and principles
+## Tips and Directions
+* It is not allowed to use tools like Bootstrap, Pure CSS, ng-bootstrap, Angular Material. The idea is to evaluate your skills, how you build the architecture, DRY patterns;
 * We don't provide design files in this test, but it will be a very good surprise if you provide some to us!
 
 ### “A user interface is like a joke. If you have to explain it, it's not that good”. — Martin Leblanc.
