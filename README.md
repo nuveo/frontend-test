@@ -3,7 +3,7 @@ Our company has a goal of developing intelligent solutions for automation proces
 
 # Frontend Test
 
-The major goal of our frontedn test is simple: to develop an application with List and Detail pages of all characters from the Star Wars saga.
+The major goal of our frontend test is simple: to develop an application with List and Detail pages of all characters from the Star Wars saga.
 
 It is worth noticing that we intentionally had some information missing throughout the test to see how you can handle such challenging situations.
 
@@ -36,8 +36,8 @@ Feel free to add any other interesting information that you consider important t
 ## Delivery instructions
 
 Clone this project and push in the [Github](https://github.com/).
-Feel free to ask any questions about the test on how to perform your solution. Use our [contact email](mailto:talentos@nuveo.ai).
-When you finish the job, please write all the important information in a README.md file and then send an email to our [contact email](mailto:talentos@nuveo.ai) telling us that we can start the evaluation process.
+Feel free to ask any questions about the test on how to perform your solution. Use our [contact email](mailto:diego.gonzales@nuveo.ai).
+When you finish the job, please write all the important information in a README.md file and then send an email to our [contact email](mailto:diego.gonzales@nuveo.ai) telling us that we can start the evaluation process.
 We will follow your instructions to run your code and look the outcome. Therefore, be as precise as possible to guide us on how to use your code.
 
 ## API
